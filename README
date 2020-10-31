@@ -1,0 +1,6 @@
+wificonnect
+===========
+
+Dead simple website, this is only static files that are meant to be served on a non HTTPS
+backend, enabling DNS redirect for airport and diverse public endpoints
+
